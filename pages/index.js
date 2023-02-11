@@ -9,7 +9,7 @@ const Home = () => {
       </Head>
 
    <div className="bg-white sticky top-0 z-30"> 
-      <div className="flex border-b border-neutral-700 bg-white mx-3 sm:mx-48 opacity-95 sm:px-16 px-5 py-5">
+      <div className="flex border-b border-neutral-700 bg-white mx-3 sm:mx-48 sm:px-16 px-5 py-5">
     <div className="flex-1 font-medium inline text-2xl">
      <Image className="inline rounded-lg" width={35} height={35} src={'/E.png'} /> &nbsp; | &nbsp; Elly
     </div>
@@ -44,7 +44,7 @@ const Home = () => {
 
 
       <div
-        className="container opacity-70 max-w-lg z-20 px-4 sm:pt-20 pt-12 mx-auto text-left max-w-none text-center"
+        className="container max-w-lg z-20 px-4 sm:pt-20 pt-12 mx-auto text-left max-w-none text-center"
       >
         <div className="mb-6">
           <Image
@@ -118,7 +118,7 @@ const Home = () => {
       </div>
       <div>
         <img
-          src="/mobi.png"
+          src="/mobi1.png"
           className="object-cover object-top w-full h-32 mx-auto lg:h-80 xl:mr-24 md:max-w-sm"
           alt=""
         />
@@ -147,7 +147,7 @@ const Home = () => {
         Build your landing page by your own, or submit your details and let us do the rest.
       </p>
       <img
-        src="/mobi1.png"
+        src="/mobi.png"
         className="w-full mx-auto md:w-auto md:max-w-xs"
         alt=""
       />
