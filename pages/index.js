@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div className="bg-white">
       <Head>
-        <title>Biobyme - Create Your Bio Website</title>
+        <title>Elly - Create Your Bio Website</title>
       </Head>
 
    <div className="bg-white sticky top-0 z-30"> 
@@ -118,7 +118,7 @@ const Home = () => {
       </div>
       <div>
         <img
-          src="https://kitwind.io/assets/kometa/two-thirds-phone.png"
+          src="/mobi.png"
           className="object-cover object-top w-full h-32 mx-auto lg:h-80 xl:mr-24 md:max-w-sm"
           alt=""
         />
@@ -144,10 +144,10 @@ const Home = () => {
         </h2>
       </div>
       <p className="max-w-md mb-10 text-xs text-gray-600 sm:text-sm md:text-center">
-        Build your landing page by your own, rr submit your details and let us do the rest.
+        Build your landing page by your own, or submit your details and let us do the rest.
       </p>
       <img
-        src="https://kitwind.io/assets/kometa/half-phone.png"
+        src="/mobi1.png"
         className="w-full mx-auto md:w-auto md:max-w-xs"
         alt=""
       />
