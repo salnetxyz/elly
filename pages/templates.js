@@ -2,9 +2,7 @@ import Image from "next/image";
 // import Footer from "./components/Footer";
 import Link from "next/link";
 import Head from "next/head";
-import Script from "next/script";
-
-const Home = () => {
+const Templates = () => {
   return (
     <div className="bg-white">
       <Head>
@@ -176,9 +174,8 @@ const Home = () => {
     </div>
   </div>
 </footer>
-<Script src="//code.tidio.co/xssnm5kgtqpkrrnf6xkitn0oliavwy5c.js" />
     </div>
   )
 }
 
-export default Home;
+export default Templates;
