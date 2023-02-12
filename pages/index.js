@@ -117,6 +117,9 @@ const Home = () => {
           Choose from over multiple beautiful Elly‑designed templates 
           or customise your site, any way you like.
           </p>
+          <div className="mt-5">
+              <span className="border px-6 py-3 rounded-xl border-neutral-300 shadow-md">See Templates</span>
+          </div>
         </div>
       </div>
       <div>
