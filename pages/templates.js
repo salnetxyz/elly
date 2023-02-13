@@ -70,9 +70,6 @@ const Templates = () => {
               <TemplateCard name={"demo3"} image={"product.png"} />
               <TemplateCard name={"demo4"} image={"ellyt.png"} />
               <TemplateCard name={"demo5"} image={"page.png"} />
-
-
-
               </div>
           {/* Card End */}
   
