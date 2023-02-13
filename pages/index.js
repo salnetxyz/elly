@@ -69,7 +69,7 @@ const Home = () => {
           />
         </div>
         <h1
-          className="text-4xl px-3 font-medium leading-10 tracking-tight text-left text-neutral-900 text-center sm:leading-none md:text-6xl lg:text-7xl"
+          className="text-3xl px-3 font-medium leading-10 tracking-tight text-left text-neutral-900 text-center sm:leading-none md:text-6xl lg:text-7xl"
         >
           <span className="inline md:block">Launch Your Landing</span>
           <span
