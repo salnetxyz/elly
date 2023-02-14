@@ -39,7 +39,7 @@ const Home = () => {
 
           <span className="relative sm:block inline-flex w-full md:w-auto">
             <Link
-            href="/create"
+            href="https://api.whatsapp.com/send/?phone=919775342439&text=I+would+like+to+build+my+website&type=phone_number&app_absent=0"
               className="inline-flex mx-8 opacity-90 mt-3 border border-neutral-700 text-4xl hover:shadow-lg hover:shadow-neutral-300 items-center justify-center w-full px-6 py-3 text-base font-medium leading-6 text-white bg-indigo-500 border border-b-4 rounded-xl md:w-auto hover:shadow-xl focus:outline-none"
             >
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-6 h-6">
