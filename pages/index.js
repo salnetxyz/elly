@@ -38,8 +38,8 @@ const Home = () => {
         <div className="flex flex-col mt-5">
 
           <span className="relative sm:block inline-flex w-full md:w-auto">
-            <a
-            href="https://api.whatsapp.com/send/?phone=919775342439&text=I+would+like+to+build+my+website&type=phone_number&app_absent=0"
+            <Link
+            href="/create"
               className="inline-flex mx-8 opacity-90 mt-3 border border-neutral-700 text-4xl hover:shadow-lg hover:shadow-neutral-300 items-center justify-center w-full px-6 py-3 text-base font-medium leading-6 text-white bg-indigo-500 border border-b-4 rounded-xl md:w-auto hover:shadow-xl focus:outline-none"
             >
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-6 h-6">
@@ -47,7 +47,7 @@ const Home = () => {
             <path d="M5.26 17.242a.75.75 0 10-.897-1.203 5.243 5.243 0 00-2.05 5.022.75.75 0 00.625.627 5.243 5.243 0 005.022-2.051.75.75 0 10-1.202-.897 3.744 3.744 0 01-3.008 1.51c0-1.23.592-2.323 1.51-3.008z" />
             </svg>&nbsp;
             Get Your Landing Page
-            </a>
+            </Link>
           </span>
    
         <div className="mt-8">
@@ -62,7 +62,7 @@ const Home = () => {
         </div>
       </div>
 
-        <div className="bg-black mt-12 sm:px-8 px-3 py-8">
+        <div className="bg-[#F8F8F8] mt-12 sm:px-8 px-3 py-8">
 
            {/* Card Section */}
 
